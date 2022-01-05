@@ -920,7 +920,7 @@ nav{
 
 #hero-area .navbar-two .nav-link:focus, #hero-area .navbar-two .nav-link:hover {
   color: #fff !important;
-  background: #4479a3 ; }
+  background: #e4e9ec ; }
 
 #hero-area .navbar-two .active > .nav-link, #hero-area .navbar-two .nav-link.active, #hero-area .navbar-two .nav-link.open, #hero-area .navbar-two .open > .nav-link {
   color: #fff !important;
@@ -930,7 +930,7 @@ nav{
   border-color: #4479a3 ; }
 
 .slicknav_menu .slicknav_icon-bar {
-  background: #4479a3 ; }
+  background: #ffffff ; }
 
 /* only small tablets */
 @media (min-width: 768px) and (max-width: 991px) {
