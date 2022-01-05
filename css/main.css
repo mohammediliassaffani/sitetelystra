@@ -894,7 +894,7 @@ nav{
   letter-spacing: 1px; }
 
 #hero-area .navbar-nav .nav-link:focus, #hero-area .navbar-nav .nav-link:hover {
-  color: #4479a3  !important; }
+  color: #96caf5  !important; }
 
 #hero-area .navbar-nav .active > .nav-link, #hero-area .navbar-nav .nav-link.active, #hero-area .navbar-nav .nav-link.open, #hero-area .navbar-nav .open > .nav-link {
   color: #96caf5  !important; }
@@ -1023,7 +1023,7 @@ nav{
      }
 	
 	#hero-area .navbar img{
-		width: 90px;
+		width: 80px;
 	}
 
   @media only screen and (max-width:510px){
