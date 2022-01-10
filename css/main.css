@@ -1829,7 +1829,9 @@ footer .footer-Content .menu .icon {
 /* ==========================================================================
    call-to-action Section Start
    ========================================================================== */
-
+.sous-titre{
+  font-size: medium;
+}
 .calltoaction-area {
   padding: 70px 0;
   background: #4479a3 ;
